@@ -17,20 +17,20 @@ Cursando a metade da graduação em Direito e com bagagem profissional em estág
 * **O Propósito:** O Study Hub será o alicerce para documentar minha transição e evolução na TI. Ele funcionará como meu portfólio inicial para organizar códigos, projetos práticos e anotações de forma lógica, provando minha capacidade de estruturar informações complexas e facilitando a atração de oportunidades em grandes empresas de tecnologia.
 
 ## Documentação de Implantação: PortfolioHUB + IA GEMINI
-* 
-* \### 1. Planeamento da Implantação
-* A implantação do PortfolioHUB foi desenhada com o apoio contínuo do Google Gemini e dividida em fases:
-* \* \*\*Estruturação:\*\* Criação do ambiente local e hierarquia de diretórios.
-* \* \*\*Integração:\*\* Ligação ao GitHub para armazenamento de projetos e controlo de versões.
-* \* \*\*Lançamento:\*\* Configuração do GitHub Pages para colocar o portfólio em produção.
-* 
-* \### 2. Gestão de Utilizadores e Segurança
-* Para garantir a conformidade e a robustez do repositório, foram implementadas as seguintes políticas:
-* \* \*\*Controlo de Acesso:\*\* O repositório é público para leitura (visualização do portfólio), mas a escrita e alteração de ficheiros estão estritamente restritas ao proprietário.
-* \* \*\*Proteção de Código:\*\* A ramificação principal (`main`) possui políticas de segurança ativas para prevenir eliminações acidentais e garantir a integridade da plataforma.
-* 
-* \### 3. Partilha e Controlo de Versões
-* O fluxo de trabalho colaborativo e de versionamento segue as melhores práticas:
-* \* As atualizações são registadas através de \*commits\* semânticos e rastreáveis.
-* \* O repositório atua como a base central, permitindo que a integração com o GitHub Pages reflita imediatamente qualquer nova versão aprovada do código.
+
+### 1. Planeamento da Implantação
+A implantação do PortfolioHUB foi desenhada com o apoio contínuo do Google Gemini e dividida em fases:
+* **Estruturação:** Criação do ambiente local e hierarquia de diretórios.
+* **Integração:** Ligação ao GitHub para armazenamento de projetos e controlo de versões.
+* **Lançamento:** Configuração do GitHub Pages para colocar o portfólio em produção.
+
+### 2. Gestão de Utilizadores e Segurança
+Para garantir a conformidade e a robustez do repositório, foram implementadas as seguintes políticas:
+* **Controlo de Acesso:** O repositório é público para leitura (visualização do portfólio), mas a escrita e alteração de ficheiros estão estritamente restritas ao proprietário.
+* **Proteção de Código:** A ramificação principal (`main`) possui políticas de segurança ativas para prevenir eliminações acidentais e garantir a integridade da plataforma.
+
+### 3. Partilha e Controlo de Versões
+O fluxo de trabalho colaborativo e de versionamento segue as melhores práticas:
+* As atualizações são registadas através de *commits* semânticos e rastreáveis.
+* O repositório atua como a base central, permitindo que a integração com o GitHub Pages reflita imediatamente qualquer nova versão aprovada do código.
 
